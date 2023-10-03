@@ -1,4 +1,3 @@
-# Module-1-challenge
 # Horiseon Webpage
 
 # Description
