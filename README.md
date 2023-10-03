@@ -1,7 +1,7 @@
 # Horiseon Webpage
 
 # Description
-The purpose of this project was to make changes to the existing webpage, what I have learnt was how to add semantic html elements follwing a structured styling and positioning. I have added heading elements that fall in sequential order and also image and icon elements using alt attributes. From this challenge I have understood that using semantic HTML code allows for easier readable code and greater accessibility.
+The purpose of this project was to make changes to the existing marketing agency webpage, what I have learnt was how to add semantic html elements follwing a structured styling and positioning. I have added heading elements that fall in sequential order and also image and icon elements using alt attributes. From this challenge I have understood that using semantic HTML code allows for easier readable code and greater accessibility.
 
 ## Installation
 
